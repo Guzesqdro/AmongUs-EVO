@@ -30,7 +30,16 @@
 
 ## 📦 Install Dependencies
 
-Platform-specific setup instructions are available in the `/docs` folder.
+**- Install CheatEngine from [HERE](https://www.cheatengine.org/downloads.php)**
+**- Download the last version of AmongUs-EVO from [HERE](https://www.cheatengine.org/downloads.php)**
+**- Run Among Us [Works of STEAM and GAMEPASS version]**
+**- In CheatEngine click the computer icon on top left**
+**- Select Among Us**
+**- Click FILE and select LOAD**
+**- Select AmongUs-EVO**
+**- Select Among Us in the table**
+**- Pick your version**
+**- ENJOY 🎉**
 
 ---
 
