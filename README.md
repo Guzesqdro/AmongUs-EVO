@@ -31,12 +31,19 @@
 ## 🧪 Launch the Mod
 
 **- Run Among Us [Works of STEAM and GAMEPASS version]**
+
 **- In CheatEngine click the computer icon on top left**
+
 **- Select Among Us**
+
 **- Click FILE and select LOAD**
+
 **- Select AmongUs-EVO**
+
 **- Select Among Us in the table**
+
 **- Pick your version**
+
 **- ENJOY 🎉**
 
 ---
