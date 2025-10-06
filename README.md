@@ -1,4 +1,4 @@
-# 🧠 AmongUs-EVO — Educational Modding Framework for Among Us
+# 🧠 AmongUs-EVO — The BEST mod/hack for AmongUs
 
 > ⚠️ **Disclaimer:** This project is strictly for educational purposes. It is intended to teach reverse engineering, cross-platform development, and ethical modding practices. Do not use this software to disrupt public or private games.
 
@@ -28,44 +28,33 @@
 
 ---
 
+## 🧪 Launch the Mod
+
+**- Run Among Us [Works of STEAM and GAMEPASS version]**
+**- In CheatEngine click the computer icon on top left**
+**- Select Among Us**
+**- Click FILE and select LOAD**
+**- Select AmongUs-EVO**
+**- Select Among Us in the table**
+**- Pick your version**
+**- ENJOY 🎉**
+
+---
+
 ## 📦 Install Dependencies
 
 **- Install CheatEngine from [HERE](https://www.cheatengine.org/downloads.php)**
 
 **- Download the last version of AmongUs-EVO from [HERE](https://www.cheatengine.org/downloads.php)**
 
-**- Run Among Us [Works of STEAM and GAMEPASS version]**
-
-**- In CheatEngine click the computer icon on top left**
-
-**- Select Among Us**
-
-**- Click FILE and select LOAD**
-
-**- Select AmongUs-EVO**
-
-**- Select Among Us in the table**
-
-**- Pick your version**
-
-**- ENJOY 🎉**
-
----
-
-## 🧪 Launch the Mod
-
-Run the mod in a sandboxed environment with a local copy of Among Us.
-
 ---
 
 ## 🧪 Requirements
 
-- Basic programming knowledge (C#, Python, or JavaScript recommended)
-- Local copy of Among Us (for testing)
-- Development tools:
-  - 🛠️ Android Studio (for Android)
-  - 🖥️ Visual Studio Code or JetBrains Rider (for desktop)
-
+- An **OFFICIAL** version of Among Us
+- Have CheatEngine
+- An **OFFICIAL** account of Among Us
+  
 ---
 
 ## 📚 Educational Value
@@ -96,6 +85,12 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 ## 📬 Contact
 
-For questions, suggestions, or collaboration ideas, visit [guzesqdro.github.io](https://guzesqdro.github.io) or open an issue in the repository.
+For questions, suggestions, or collaboration ideas, visit [My Instagarm](https://instagram.com/guzesqdro) or open an issue in the repository.
 
-#-- Guzesqdro 💻🧪
+---
+
+## 💸 Donate
+
+YOu can donate me by follow me in IG: [My Instagarm](https://instagram.com/guzesqdro) 🎉
+
+## -- Guzesqdro 💻🧪
